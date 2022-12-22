@@ -34,7 +34,7 @@ Following are the `data-ns-test` attribute value required for each of the elemen
 4. p→ block-inline-p
 5. input→ block-inline-input
 6. cite→ block-inline-cite
-7. code→ block-inline-cite
+7. code→ block-inline-code
 8. p→ block-inline-p
 9. h1→ block-inline-h1
 10. sup→ block-inline-sup
